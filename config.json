@@ -1,0 +1,11 @@
+{
+  "title": "my blog",
+  "description": "a place where I post things",
+  "colors": {
+    "primary": "#3f51b5"
+  },
+  "posts": [
+    "hello-world"
+  ]
+}
+
